@@ -36,7 +36,7 @@ formato **bold o strong**
 
 formato **bold o strong**
 
-formato ~~tachado~~ el simbolo sale con ALT + 126
+formato ~~tachado~~ - el simbolo sale con ALT + 126
 
 »»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»
 
@@ -68,7 +68,7 @@ formato ~~tachado~~ el simbolo sale con ALT + 126
 
 # CODIGOS SNIPES:
 
-```JavaScvrip
+```JavaScript
 El simbolo sale con ALT + 96
 br
 br
@@ -82,7 +82,7 @@ br
 | nombres | apellidos | dni    |
 | ------- | --------- | ------ |
 | oscar   | cantaro   | 123456 |
-| samanta | castillo  | 456789 |
+| samantha | castillo  | 456789 |
 | armando | caballero | 789456 |
 
 »»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»
@@ -97,22 +97,22 @@ Esto es una cita
 
 # LINEAS DIVISORAS:
 
-Esto es un texto que será dividido por guin medio
+Esto es un texto que será dividido por guión medio
 
 ---
 
 Esto es un texto que será dividido por asterisco
 
----
+***
 
-Esto es un texto que será dividido por guión baje
+Esto es un texto que será dividido por guión bajo
 
----
+___
 
 »»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»
 
 # SALTOS DE LINEAS:
 
-Solo usar el enter
+Solo usar el ENTER
 
 »»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»
