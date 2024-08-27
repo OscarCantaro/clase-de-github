@@ -1,4 +1,4 @@
-# **Clase de Github**
+# **CLASES DE MARKDOWN**
 
 »»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»
 
@@ -28,15 +28,56 @@
 
 # FORMATO DE ENFASIS:
 
-- formato _italica_
-- formato _italica_
-- formato **bold o strong**
-- formato **bold o strong**
-- formato tachado
+formato _italica_
+
+formato _italica_
+
+formato **bold o strong**
+
+formato **bold o strong**
+
+formato ~~tachado~~ el simbolo sale con ALT + 126
 
 »»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»
 
-# tablas
+# LISTAS:
+
+1. Esto es un item de una lista ordenada
+1. Esto es un item de una lista ordenada
+1. Esto es un item de una lista ordenada
+
+- Esto es un item de una lista desordenada
+- Esto es un item de una lista desordenada
+- Esto es un item de una lista desordenada
+
+»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»
+
+# LINKS:
+
+[esto es un link al cualquier lado](#)
+
+[esto es un link al index](index.html)
+
+»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»
+
+# IMAGENES:
+
+![logo](https://www.mabenir.com.uy/imgs/productos/productos31_24982.jpg)
+
+»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»
+
+# CODIGOS SNIPES:
+
+```JavaScvrip
+El simbolo sale con ALT + 96
+br
+br
+br
+```
+
+»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»
+
+# TABLAS:
 
 | nombres | apellidos | dni    |
 | ------- | --------- | ------ |
@@ -46,7 +87,7 @@
 
 »»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»
 
-# Citas
+# CITAS:
 
 Esto es una cita
 
@@ -54,4 +95,24 @@ Esto es una cita
 
 »»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»
 
-# Lineas divisoras
+# LINEAS DIVISORAS:
+
+Esto es un texto que será dividido por guin medio
+
+---
+
+Esto es un texto que será dividido por asterisco
+
+---
+
+Esto es un texto que será dividido por guión baje
+
+---
+
+»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»
+
+# SALTOS DE LINEAS:
+
+Solo usar el enter
+
+»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»
